@@ -1,4 +1,20 @@
 * {
+    padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    color: red;
+}
+
+header {
+    background: red;
+    padding: 0 20px;
+}
+
+footer {
+    color: blue;
+    padding: 0 50px;
 }
